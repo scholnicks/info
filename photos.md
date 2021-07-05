@@ -41,7 +41,7 @@
 * [Las Vegas April 2014](https://goo.gl/photos/QFj4deLA6PB7Rz5YA)
 * [Las Vegas November 2013](https://goo.gl/photos/pPekEWEvCGKzWSsr8)
 * [Las Vegas November 2012](https://goo.gl/photos/Ws8sCU4pEgLwxC8b9)
-* [Las Vegas \(and Hoover Dam\) November 2011](https://goo.gl/photos/qsxBDKZULgXQh6Sn9)
+* [Las Vegas (and Hoover Dam) November 2011](https://goo.gl/photos/qsxBDKZULgXQh6Sn9)
 * [Bellagio Gardens August 2008](https://goo.gl/photos/Gu9UjmeHJrZYbT8d9)
 
 **Phipps Conservatory**
@@ -64,12 +64,12 @@
 
 ## Others
 
-* [Living Dead Weekend](https://bit.ly/living-dead-weekend)
+* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
 * [Dora](https://www.facebook.com/media/set/?set=a.2886867140525.2120887.1525565185&type=1&l=0bea5aa7cd)
-* [Catelyn \(forever in our hearts\)](https://www.facebook.com/album.php?aid=2017494&id=1525565185&l=bf8eb03993)
-* [Johanna and John's Wedding \(7/9/11\)](https://goo.gl/photos/aVjzVzCTdbmrdR5E7)
-* [Johanna's Bridal Shower \(5/7/11\)](https://www.facebook.com/media/set/?set=a.1818137142943.2090880.1525565185&l=c917c1e57d)
-* [Johanna's Baby Shower \(4/14/13\)](https://www.facebook.com/media/set/?set=a.4841629128353.1073741826.1525565185&type=1&l=0b63b0d40f)
+* [Catelyn (forever in our hearts)](https://www.facebook.com/album.php?aid=2017494&id=1525565185&l=bf8eb03993)
+* [Johanna and John's Wedding (7/9/11)](https://goo.gl/photos/aVjzVzCTdbmrdR5E7)
+* [Johanna's Bridal Shower (5/7/11)](https://www.facebook.com/media/set/?set=a.1818137142943.2090880.1525565185&l=c917c1e57d)
+* [Johanna's Baby Shower (4/14/13)](https://www.facebook.com/media/set/?set=a.4841629128353.1073741826.1525565185&type=1&l=0b63b0d40f)
 * [My Wedding 4/29/95](https://goo.gl/photos/CHxa1CLzCRKZ7dpE9)
 * [Billy Joel/Elton John Pittsburgh 8/2/94](https://goo.gl/photos/sAqqqWqbmhNLd9JDA)
 * [Page/Plant Pittsburgh 3/25/95](https://goo.gl/photos/QmqnyLytwvG3QVJf7)
