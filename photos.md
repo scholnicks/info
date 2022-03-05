@@ -37,6 +37,7 @@
 
 ## Las Vegas
 
+* [Las Vegas February 2022](https://bit.ly/scholnick-vegas-02-2022)
 * [Las Vegas / Grand Canyon 2017](https://photos.app.goo.gl/0Dz9r76TFkspsHqC3)
 * [Las Vegas April 2014](https://goo.gl/photos/QFj4deLA6PB7Rz5YA)
 * [Las Vegas November 2013](https://goo.gl/photos/pPekEWEvCGKzWSsr8)
