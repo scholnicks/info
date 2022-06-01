@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2022
+* [Southern Eating Tour May 2022](https://bit.ly/southern-eating-tour)
 * [Las Vegas February 2022](https://bit.ly/scholnick-vegas-02-2022)
 
 ### 2019
