@@ -1,14 +1,12 @@
 # Cruise Recommendations
 
-I read an article that cruises are still at near 100 capacity despite the economy. We usually book early but you can get a good deal by booking at the last minute. Although booking airfare at the last minute is a pain.
+We usually book early but you can get a good deal by booking at the last minute. Although booking airfare at the last minute is a pain.
 
-[http://www.cruisecritic.com](http://www.cruisecritic.com/), reviews of ships/cruises.
+[https://www.cruisecritic.com](www.cruisecritic.com/), reviews of ships/cruises.
 
-[http://www.cruises-n-more.com](http://www.cruises-n-more.com/) Decent search engine, some specials
+[https://www.cruises-n-more.com](www.cruises-n-more.com/) Decent search engine, some specials
 
-[https://www.kayak.com/cruises](https://www.kayak.com/cruises) I love Kayak. I use it for flights all the time.
-
-I would recommend [Royal Caribbean](http://www.royalcaribbean.com/) out of Miami to the Caribbean as a first cruise, lots of sun and fun. [Southwest](http://www.southwest.com/) flies into Fort Lauderdale pretty cheaply, and they don't charge for luggage. Either book the cruise directly through [Royal Caribbean](http://www.royalcaribbean.com/) or use [Travelocity](http://www.travelocity.com/:).
+I would recommend [Royal Caribbean](https://www.royalcaribbean.com/) out of Miami to the Caribbean as a first cruise, lots of sun and fun. [Southwest](https://www.southwest.com/) flies into Fort Lauderdale pretty cheaply, and they don't charge for luggage. Either book the cruise directly through [Royal Caribbean](http://www.royalcaribbean.com/) or use [Expedia](https://www.expedia.com/).
 
 ## Tips
 
