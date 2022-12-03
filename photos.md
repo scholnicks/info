@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2022
+* [Las Vegas November 2022](https://bit.ly/vegas-november-2022)
 * [San Diego October 2022](https://bit.ly/san-diego-2022)
 * [Southern Eating Tour May 2022](https://bit.ly/southern-eating-tour)
 * [Las Vegas February 2022](https://bit.ly/scholnick-vegas-02-2022)
