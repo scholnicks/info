@@ -8,7 +8,7 @@ Experience
 
 **Development Team Lead**, [Software Engineering Institute](https://sei.cmu.edu), *August 2020 - Present*
 
-*   Lead software development and engineering efforts for a small diverse development team.
+*   Lead software development and engineering efforts for a diverse development team.
 *   Provide senior leadership and mentoring to the team, implement policies and practices, formalize scope of responsibility.
 *   Lead backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
 
