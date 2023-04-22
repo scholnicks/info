@@ -2,6 +2,9 @@
 
 ## Trips
 
+### 2023
+* [Montreal / Washington,DC April 2023](https://bit.ly/spring-vacation-2023)
+
 ### 2022
 * [Las Vegas November 2022](https://bit.ly/vegas-november-2022)
 * [San Diego October 2022](https://bit.ly/san-diego-2022)
