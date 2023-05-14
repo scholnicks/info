@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2023
+* [Open Source Summit 2023, Vancouver,BC](https://bit.ly/open-summit-2023)
 * [Montreal / Washington,DC April 2023](https://bit.ly/spring-vacation-2023)
 
 ### 2022
