@@ -108,6 +108,7 @@
 
 ### Everything Else
 
+* [StokerCon 2023](https://bit.ly/stokercon-2023)
 * [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
 * [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
 * [Dora](https://www.facebook.com/media/set/?set=a.2886867140525.2120887.1525565185&type=1&l=0bea5aa7cd)
