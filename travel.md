@@ -19,7 +19,7 @@
 
 * [Hotel Resort Fee Lookup Tool](https://www.resortfeechecker.com/)
 * [IATA Travel Centre](https://www.iatatravelcentre.com/)
-* [My Cruise Recommendations](https://bit.ly/cruise-recommendations)
+* [My Cruise Recommendations](https://github.com/scholnicks/info/blob/main/cruise-recommendations.md)
 * [Rick Steves](http://www.ricksteves.com/)
 * [TripIt](https://www.tripit.com/)
 * [Trip Advisor](https://www.tripadvisor.com/)

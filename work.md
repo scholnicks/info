@@ -6,9 +6,9 @@
 
 ## Conferences
 
-* [https://springoneplatform.io](https://springoneplatform.io)
-* [https://devnexus.com](https://devnexus.com)
-* [https://www.apachecon.com](https://www.apachecon.com)
+* [Spring](https://springoneplatform.io)
+* [DevNexus](https://devnexus.com)
+* [ApacheCon](https://www.apachecon.com)
 * [https://gotochgo.com](https://gotochgo.com)
-* [https://www.docker.com/dockercon](https://www.docker.com/dockercon)
+* [DockerCon](https://www.docker.com/dockercon)
 * [https://www.owasp.org/index.php/Category:OWASP\_AppSec\_Conference](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference)
