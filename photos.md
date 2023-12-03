@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2023
+* [Mexican Cruise November 2023](https://photos.app.goo.gl/V7VEoab3PZbUkLrHA)
 * [Open Source Summit 2023, Vancouver,BC](https://bit.ly/open-summit-2023)
 * [Montreal / Washington,DC April 2023](https://bit.ly/spring-vacation-2023)
 
