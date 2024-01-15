@@ -43,7 +43,7 @@ Experience
 *   [itunes-library](https://github.com/scholnicks/itunes-library), Python module representing an iTunes library
 *   [ISBNDB REST Library](https://github.com/scholnicks/isbndb)
 *   [T2t](https://github.com/scholnicks//t2t/), text to HTML tables translator
-*   [Splice](https://github.com/scholnicks//splice/), a label maker for CDs, DATs, etc
+*   [Splice](https://github.com/scholnicks//splice), a label maker for CDs, DATs, etc
 *   [TagIt](https://github.com/scholnicks/tagit), library for JUnit testing custom tags
 *   A set of [Scripts](https://github.com/scholnicks/scripts) for various tasks
 
