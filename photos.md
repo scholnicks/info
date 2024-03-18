@@ -2,6 +2,10 @@
 
 ## Trips
 
+### 2024
+
+* [Charleston,SC](https://photos.app.goo.gl/RBucUcDbtmziQPLs9)
+
 ### 2023
 * [Mexican Cruise November 2023](https://photos.app.goo.gl/V7VEoab3PZbUkLrHA)
 * [Open Source Summit 2023, Vancouver,BC](https://bit.ly/open-summit-2023)
