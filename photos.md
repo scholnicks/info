@@ -3,7 +3,7 @@
 ## Trips
 
 ### 2024
-
+* [California May 2024](https://photos.app.goo.gl/WqNDf71GYgbhv9Bu7)
 * [Charleston,SC. March 2024](https://photos.app.goo.gl/RBucUcDbtmziQPLs9)
 
 ### 2023
