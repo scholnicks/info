@@ -92,6 +92,12 @@
 
 ## Other Photos
 
+### Horror
+
+* [StokerCon 2023](https://bit.ly/stokercon-2023)
+* [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
+* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
+
 ### Phipps Conservatory
 
 * [Devember 2022](https://bit.ly/phipps-2022)
@@ -113,11 +119,8 @@
 
 ### Everything Else
 
-* [StokerCon 2023](https://bit.ly/stokercon-2023)
-* [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
-* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
 * [Dora](https://www.facebook.com/media/set/?set=a.2886867140525.2120887.1525565185&type=1&l=0bea5aa7cd)
-* [Catelyn (forever in our hearts)](https://www.facebook.com/album.php?aid=2017494&id=1525565185&l=bf8eb03993)
+* [Catelyn](https://www.facebook.com/media/set/?set=a.1102644496074&l=bf8eb03993)
 * [Johanna and John's Wedding (7/9/11)](https://goo.gl/photos/aVjzVzCTdbmrdR5E7)
 * [Johanna's Bridal Shower (5/7/11)](https://www.facebook.com/media/set/?set=a.1818137142943.2090880.1525565185&l=c917c1e57d)
 * [Johanna's Baby Shower (4/14/13)](https://www.facebook.com/media/set/?set=a.4841629128353.1073741826.1525565185&type=1&l=0b63b0d40f)
@@ -125,3 +128,4 @@
 * [Billy Joel/Elton John Pittsburgh 8/2/94](https://goo.gl/photos/sAqqqWqbmhNLd9JDA)
 * [Page/Plant Pittsburgh 3/25/95](https://goo.gl/photos/QmqnyLytwvG3QVJf7)
 * [Page/Plant Pittsburgh 7/1/98](https://goo.gl/photos/hhFwnLZPNK9qHdXA8)
+
