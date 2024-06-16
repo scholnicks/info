@@ -94,13 +94,14 @@
 
 ### Horror
 
+* [Living Dead Weekend 2024](https://photos.app.goo.gl/gk5myB3e3JadzeQBA)
 * [StokerCon 2023](https://bit.ly/stokercon-2023)
 * [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
 * [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
 
 ### Phipps Conservatory
 
-* [Devember 2022](https://bit.ly/phipps-2022)
+* [December 2022](https://bit.ly/phipps-2022)
 * [December 2014](https://goo.gl/photos/VGFXAAt4WsyU9VxH6)
 * [December 2013](https://goo.gl/photos/qhZc67Pqmu2R58oH7)
 * [December 2012](https://goo.gl/photos/p45TUrbQG495fqdu6)
@@ -117,10 +118,14 @@
 * [2011](https://goo.gl/photos/PH4mtZLSZs6d8xhm7)
 * [2010](https://photos.app.goo.gl/TZ18pBJwCU6pCeGm8)
 
-### Everything Else
+### Kitties
 
+* [Cagney and Pokey](https://photos.app.goo.gl/D98d5kQJhnHr65AN6)
 * [Dora](https://www.facebook.com/media/set/?set=a.2886867140525.2120887.1525565185&type=1&l=0bea5aa7cd)
 * [Catelyn](https://www.facebook.com/media/set/?set=a.1102644496074&l=bf8eb03993)
+
+### Everything Else
+
 * [Johanna and John's Wedding (7/9/11)](https://goo.gl/photos/aVjzVzCTdbmrdR5E7)
 * [Johanna's Bridal Shower (5/7/11)](https://www.facebook.com/media/set/?set=a.1818137142943.2090880.1525565185&l=c917c1e57d)
 * [Johanna's Baby Shower (4/14/13)](https://www.facebook.com/media/set/?set=a.4841629128353.1073741826.1525565185&type=1&l=0b63b0d40f)
