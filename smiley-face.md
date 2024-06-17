@@ -1,7 +1,8 @@
 # Sh_t Smiley Face
 
-**Editor's Note:** 
-I have not edited the original emails. The text here is the exact same text I received in 2 emails from Damian. I have only concatenated the 2 emails into one text.
+> [!NOTE]
+> I have not edited the original emails. The text here is the exact same text I received in 2 emails from Damian. I have only concatenated the 2 emails into one text.
+
 
 hey steve, get a load of this shit. to preface: last night, ping, shamrock, tom, and me went to mr. pockets at parkway center to shoot a little pool with some half-price coupons we had. anyway, ping was driving, so i parked my car at the aamoco station where brian works and just hopped in with him.
 
