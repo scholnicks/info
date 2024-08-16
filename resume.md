@@ -6,11 +6,17 @@ Steven Scholnick Resume
 Experience
 ----------
 
-**Development Team Lead**, [Software Engineering Institute](https://sei.cmu.edu), *August 2020 - Present*
+**Engineering Manager**, [Software Engineering Institute](https://sei.cmu.edu), *January 2024 - Present*
 
 *   Lead software development and engineering efforts for a diverse development team.
-*   Provide senior leadership and mentoring to the team, implement policies and practices, formalize scope of responsibility.
-*   Lead backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
+*   Manage cross-functional teams to deliver complex projects.
+*   Mentor junior engineers, fostering collaborative team enviornment.
+*   Principal backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
+
+**Development Team Lead**, [Software Engineering Institute](https://sei.cmu.edu), *August 2020 - January 2024*
+
+*   Provided senior leadership and mentoring to the team, implement policies and practices, formalize scope of responsibility.
+*   Principal backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
 
 **Senior Software Engineer**, [Software Engineering Institute](https://sei.cmu.edu), *February 2008 - July 2020*
 
