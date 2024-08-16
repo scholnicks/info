@@ -3,11 +3,15 @@
 ## Trips
 
 ### 2024
+* [Las Vegas August 2024](https://photos.app.goo.gl/RtpcrqxPbTa1YNGs6)
+* [Living Dead Weekend 2024](https://photos.app.goo.gl/gk5myB3e3JadzeQBA)
 * [California May 2024](https://photos.app.goo.gl/WqNDf71GYgbhv9Bu7)
 * [Charleston,SC. March 2024](https://photos.app.goo.gl/RBucUcDbtmziQPLs9)
 
 ### 2023
 * [Mexican Cruise November 2023](https://photos.app.goo.gl/V7VEoab3PZbUkLrHA)
+* [StokerCon 2023](https://bit.ly/stokercon-2023)
+* [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
 * [Open Source Summit 2023, Vancouver,BC](https://bit.ly/open-summit-2023)
 * [Montreal / Washington,DC April 2023](https://bit.ly/spring-vacation-2023)
 
@@ -16,6 +20,9 @@
 * [San Diego October 2022](https://bit.ly/san-diego-2022)
 * [Southern Eating Tour May 2022](https://bit.ly/southern-eating-tour)
 * [Las Vegas February 2022](https://bit.ly/scholnick-vegas-02-2022)
+
+### 2021
+* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
 
 ### 2019
 * [Texas Frightmare Weekend Dallas 2019](https://bit.ly/texas-frightmare-2019)
@@ -92,13 +99,6 @@
 
 ## Other Photos
 
-### Horror
-
-* [Living Dead Weekend 2024](https://photos.app.goo.gl/gk5myB3e3JadzeQBA)
-* [StokerCon 2023](https://bit.ly/stokercon-2023)
-* [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
-* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
-
 ### Phipps Conservatory
 
 * [December 2022](https://bit.ly/phipps-2022)
@@ -129,7 +129,7 @@
 * [Johanna and John's Wedding (7/9/11)](https://goo.gl/photos/aVjzVzCTdbmrdR5E7)
 * [Johanna's Bridal Shower (5/7/11)](https://www.facebook.com/media/set/?set=a.1818137142943.2090880.1525565185&l=c917c1e57d)
 * [Johanna's Baby Shower (4/14/13)](https://www.facebook.com/media/set/?set=a.4841629128353.1073741826.1525565185&type=1&l=0b63b0d40f)
-* [My Wedding 4/29/95](https://goo.gl/photos/CHxa1CLzCRKZ7dpE9)
+* [Our Wedding 4/29/95](https://goo.gl/photos/CHxa1CLzCRKZ7dpE9)
 * [Billy Joel/Elton John Pittsburgh 8/2/94](https://goo.gl/photos/sAqqqWqbmhNLd9JDA)
 * [Page/Plant Pittsburgh 3/25/95](https://goo.gl/photos/QmqnyLytwvG3QVJf7)
 * [Page/Plant Pittsburgh 7/1/98](https://goo.gl/photos/hhFwnLZPNK9qHdXA8)
