@@ -10,7 +10,7 @@ Experience
 
 *   Lead software development and engineering efforts for a diverse development team.
 *   Manage cross-functional teams to deliver complex projects.
-*   Mentor junior engineers, fostering collaborative team enviornment.
+*   Mentor junior engineers, fostering collaborative team environment.
 *   Principal backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
 
 **Development Team Lead**, [Software Engineering Institute](https://sei.cmu.edu), *August 2020 - January 2024*
