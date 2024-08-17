@@ -9,7 +9,7 @@ Experience
 **Engineering Manager**, [Software Engineering Institute](https://sei.cmu.edu), *January 2024 - Present*
 
 *   Lead software development and engineering efforts for a diverse development team.
-*   Manage cross-functional teams to deliver complex projects.
+*   Manage cross-functional teams to deliver complex projects by coordinating requirements, schedules, activities.
 *   Mentor junior engineers, fostering collaborative team environment.
 *   Principal backend engineer on a microservices application using [Spring Boot](https://spring.io/projects/spring-boot).
 
