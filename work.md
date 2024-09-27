@@ -8,6 +8,7 @@
 
 * [ApacheCon](https://www.apachecon.com)
 * [DevNexus](https://devnexus.com)
+* [Dev2Next](https://www.dev2next.com/)
 * [DockerCon](https://www.docker.com/dockercon)
 * [GotoChgo](https://gotochgo.com)
 * [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
