@@ -13,6 +13,7 @@
 * [GotoChgo](https://gotochgo.com)
 * [KubeCon](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 * [OWASP AppSec Conference](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference)
+* [QCon](https://qconsf.com/)
 * [Spring](https://springoneplatform.io)
 
 
