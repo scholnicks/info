@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2024
+* [Paris December 2024](https://photos.app.goo.gl/5wQxrE7TisyuR1mS6)
 * [Salt Lake City November 2024](https://photos.app.goo.gl/9f86pqFZ8axFFfyk7)
 * [Las Vegas August 2024](https://photos.app.goo.gl/RtpcrqxPbTa1YNGs6)
 * [Living Dead Weekend 2024](https://photos.app.goo.gl/gk5myB3e3JadzeQBA)
