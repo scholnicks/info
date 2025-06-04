@@ -2,6 +2,9 @@
 
 ## Trips
 
+### 2025
+* [Alaskan Cruise 2025](https://photos.app.goo.gl/HfHpoYfoUkUjeY1v5)
+
 ### 2024
 * [Paris December 2024](https://photos.app.goo.gl/5wQxrE7TisyuR1mS6)
 * [Salt Lake City November 2024](https://photos.app.goo.gl/9f86pqFZ8axFFfyk7)
