@@ -2,6 +2,7 @@
 
 ## Flights
 
+* [AeroLOPA - Detailed Seat Maps](https://www.aerolopa.com/)
 * [Airline Seat Pitch Guide](https://www.airlinequality.com/info/seat-pitch-guide)
 * [Check Flight Status and History](https://airlegit.com/app/flightstatus)
 * [flightradar24.com](https://www.flightradar24.com/)
@@ -11,7 +12,7 @@
 * [List of Baggage Fees](https://www.airfarewatchdog.com/baggage-fees)
 * [Momondo](https://www.momondo.com/)
 * [Rome2Rio](https://www.rome2rio.com/)
-* [Seat Expert](https://seatexpert.com/)
+* [Seat Maps](https://seatmaps.com/)
 * [Southwest](https://www.southwest.com/)
 * [Turbli](https://turbli.com/)
 * [World Airport Codes](https://www.world-airport-codes.com/)
