@@ -1,7 +1,7 @@
 Steven Scholnick Resume
 =======================
 
-[scholnicks@gmail.com](mailto:scholnicks@gmail.com) | [https://github.com/scholnicks](https://github.com/scholnicks/)
+[Email](mailto:scholnicks@gmail.com) | [GitHub](https://github.com/scholnicks/) | [LinkedIn](https://www.linkedin.com/in/stevenscholnick/)
 
 Experience
 ----------
@@ -45,6 +45,7 @@ Experience
 
 **Independent Software Developer**, *June 1998 - Present*
 
+*   [lbdb](https://github.com/scholnicks/lbdb), Laurel's book database
 *   [bookCoverSearch](https://github.com/scholnicks/bookCoverSearch), Python module that searches Google for book covers
 *   [itunes-library](https://github.com/scholnicks/itunes-library), Python module representing an iTunes library
 *   [ISBNDB REST Library](https://github.com/scholnicks/isbndb)
