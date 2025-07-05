@@ -53,13 +53,10 @@
 
 ## Skills
 
-**Languages** Java, Python, SQL Bash, JavaScript, Perl, HTML, CSS
-
-**Databases** Microsoft SQL Server, PostgreSQL, SQLite, Oracle, MySQL
-
-**Operating Systems** macOS, Linux, Windows
-
-**Software** IntelliJ IDEA, Gradle, Git, Jira, Confluence, BitBucket
+**Languages**:         Java, Python, SQL Bash, JavaScript, Perl, HTML, CSS
+**Databases**:         Microsoft SQL Server, PostgreSQL, SQLite, Oracle, MySQL
+**Operating Systems**: macOS, Linux, Windows
+**Software**:          IntelliJ IDEA, Gradle, Git, Jira, Confluence, BitBucket
 
 
 ## Education
