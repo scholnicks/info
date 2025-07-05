@@ -6,7 +6,8 @@ We usually book early but you can get a good deal by booking at the last minute.
 
 [https://www.cruises-n-more.com](cruises-n-more.com) Decent search engine, some specials
 
-I would recommend [Royal Caribbean](https://www.royalcaribbean.com) out of Miami to the Caribbean as a first cruise, lots of sun and fun. [Southwest](https://www.southwest.com) flies into Fort Lauderdale pretty cheaply, and they don't charge for luggage. Either book the cruise directly through [Royal Caribbean](https://www.royalcaribbean.com) or use [Expedia](https://www.expedia.com).
+I would recommend [Royal Caribbean](https://www.royalcaribbean.com) out of Miami to the Caribbean as a first cruise, lots of sun and fun. [Southwest](https://www.southwest.com) flies into Fort Lauderdale pretty cheaply, and they don't charge for luggage.
+Either book the cruise directly through [Royal Caribbean](https://www.royalcaribbean.com) or use [Expedia](https://www.expedia.com).
 
 ## Tips
 
