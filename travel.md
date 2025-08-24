@@ -23,6 +23,7 @@
 * [IATA Travel Centre](https://www.iatatravelcentre.com/)
 * [My Cruise Recommendations](https://github.com/scholnicks/info/blob/main/cruise-recommendations.md)
 * [Rick Steves](https://www.ricksteves.com)
+* [Visa and Passport Requirements](https://www.staralliance.com/en/country-information)
 * [TripIt](https://www.tripit.com)
 * [Trip Advisor](https://www.tripadvisor.com)
 * [US State Department - Country Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages.html)
