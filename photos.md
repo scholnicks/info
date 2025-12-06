@@ -3,6 +3,7 @@
 ## Trips
 
 ### 2025
+* [Chicago December 2025](https://photos.app.goo.gl/kgiYmmQSQo6bmZvBA)
 * [Alaskan Cruise 2025](https://photos.app.goo.gl/HfHpoYfoUkUjeY1v5)
 
 ### 2024
