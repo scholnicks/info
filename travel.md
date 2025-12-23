@@ -2,7 +2,6 @@
 
 ## Flights
 
-* [AeroLOPA - Detailed Seat Maps](https://www.aerolopa.com/)
 * [Airline Seat Pitch Guide](https://www.airlinequality.com/info/seat-pitch-guide)
 * [Check Flight Status and History](https://airlegit.com/app/flightstatus)
 * [flightradar24.com](https://www.flightradar24.com/)
