@@ -2,7 +2,6 @@
 
 * [regexpal](https://regexpal.com/)
 * [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles)
-* [five advanced tricks for mac users](http://snazzylabs.com/tutorial/five-advanced-tricks-for-mac-users)
 
 ## Conferences
 
