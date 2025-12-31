@@ -45,11 +45,10 @@
 *   [bookCoverSearch](https://github.com/scholnicks/bookCoverSearch), Python module that searches Google for book covers
 *   [chname](https://github.com/scholnicks/chname) renames files in powerful ways.
 *   [grepshift](https://github.com/scholnicks/grepshift) finds and replaces all instances of a string with a new string in a directory and all its sub-directories.
-*   [ISBNDB REST Library](https://github.com/scholnicks/isbndb)
 *   [itunes-library](https://github.com/scholnicks/itunes-library), Python module representing an iTunes library
 *   [lbdb](https://github.com/scholnicks/lbdb), Laurel's book database
-*   [Splice](https://github.com/scholnicks//splice), a label maker for CDs, DATs, etc
-*   [T2t](https://github.com/scholnicks//t2t/), text to HTML tables translator
+*   [splice](https://github.com/scholnicks//splice), a label maker for CDs, DATs, etc
+*   [t2t](https://github.com/scholnicks//t2t/), text to HTML tables translator
 
 
 ## Skills
