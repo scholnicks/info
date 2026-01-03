@@ -16,23 +16,23 @@
 
 ### 2023
 * [Mexican Cruise November 2023](https://photos.app.goo.gl/V7VEoab3PZbUkLrHA)
-* [StokerCon 2023](https://bit.ly/stokercon-2023)
-* [Living Dead Weekend 2023](https://bit.ly/living-dead-weekend-2023)
-* [Open Source Summit 2023, Vancouver,BC](https://bit.ly/open-summit-2023)
-* [Montreal / Washington,DC April 2023](https://bit.ly/spring-vacation-2023)
+* [StokerCon 2023](https://photos.app.goo.gl/fTXareJoJSME31fdA)
+* [Living Dead Weekend 2023](https://photos.app.goo.gl/29Miu7MVAEu1NpKdA)
+* [Open Source Summit 2023, Vancouver,BC](https://photos.app.goo.gl/6afGJwgo2eactori9)
+* [Montreal / Washington,DC April 2023](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
 
 ### 2022
-* [Las Vegas November 2022](https://bit.ly/vegas-november-2022)
-* [San Diego October 2022](https://bit.ly/san-diego-2022)
-* [Southern Eating Tour May 2022](https://bit.ly/southern-eating-tour)
-* [Las Vegas February 2022](https://bit.ly/scholnick-vegas-02-2022)
+* [Las Vegas November 2022](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
+* [San Diego October 2022](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
+* [Southern Eating Tour May 2022](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
+* [Las Vegas February 2022](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
 
 ### 2021
-* [Living Dead Weekend 2021](https://bit.ly/living-dead-weekend)
+* [Living Dead Weekend 2021](https://photos.app.goo.gl/PvffUp2dcHJYuWme6)
 
 ### 2019
-* [Texas Frightmare Weekend Dallas 2019](https://bit.ly/texas-frightmare-2019)
-* [San Diego, Las Vegas, Chicago 2019](https://bit.ly/photos-spring-2019)
+* [Texas Frightmare Weekend Dallas 2019](https://photos.app.goo.gl/UMXARRjChXLoXKEz8)
+* [San Diego, Las Vegas, Chicago 2019](https://photos.app.goo.gl/wLZn215jyoDcGAzTA)
 
 ### 2018
 * [Amsterdam November 2018](https://photos.app.goo.gl/Uummur3aWxjwP8oG7)
@@ -107,7 +107,7 @@
 
 ### Phipps Conservatory
 
-* [December 2022](https://bit.ly/phipps-2022)
+* [December 2022](hhttps://photos.app.goo.gl/K7m8aJTDCv3smACD7)
 * [December 2014](https://goo.gl/photos/VGFXAAt4WsyU9VxH6)
 * [December 2013](https://goo.gl/photos/qhZc67Pqmu2R58oH7)
 * [December 2012](https://goo.gl/photos/p45TUrbQG495fqdu6)
