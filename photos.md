@@ -2,6 +2,9 @@
 
 ## Trips
 
+### 2026
+* [Las Vegas / San Diego Apri 2026](https://photos.app.goo.gl/2xAiFBmHNic8QnaZ8)
+
 ### 2025
 * [Chicago December 2025](https://photos.app.goo.gl/kgiYmmQSQo6bmZvBA)
 * [Alaskan Cruise 2025](https://photos.app.goo.gl/HfHpoYfoUkUjeY1v5)
